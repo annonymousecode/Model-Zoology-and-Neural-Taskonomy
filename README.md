@@ -1,6 +1,4 @@
-### Deep Neural Mouse Modeling
-
-Code for Interpreting Mouse Visual Cortex with ModelZoology and Neural Taskonomy
+### Code for: Interpreting Mouse Visual Cortex with ModelZoology and Neural Taskonomy
 
 #### Helpful / Relevant Links:
 
